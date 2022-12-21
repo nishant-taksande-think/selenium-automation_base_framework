@@ -94,10 +94,10 @@ Eclipse plugins:
 
 ## Import Project into Eclipse
 
-Since this is a Gradle project we need to use Import as Gradle.
+Since this is a Maven project we need to use Import.
 
 * On the top menu bar go to File --> Import.
-* Then select **Existing Gradle Project**.
+* Then select **Existing Maven Project**.
 * And choose the project location and click Finish.
 
 The eclipse will then take some time to build the project.
